@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Formula Condensed';
+    src: url('FormulaCondensed-Regular.otf') format('opentype');
+    font-weight: 100;
+ 
+ }
+
+h1{
+font-family: 'Formula Condensed';
+   font-weight: 30;
+ 
+}
+
+alt{
+    font-feature-settings: "ss01";
+    -moz-font-feature-settings: "ss01";
+    -webkit-font-feature-settings: "ss01";
+    
+ }
+
+ p{
+    font-family: 'Formula Condensed';
+    font-weight: 30;
+ }
+
+
