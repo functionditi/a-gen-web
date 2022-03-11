@@ -12,14 +12,17 @@
      background-image:
        linear-gradient(to right, #00ff00 1px, transparent 1px),
        linear-gradient(to bottom, #00ff00 1px, transparent 1px);
-       min-height: 200vh;
+       height: 200vh;
+       width: 70%;
  }
+
+
 
 h1{
 font-family: 'Formula Condensed';
    font-weight: 20;
-   font-size: 16vw;
-   padding-bottom:6vw;
+   font-size: 15vw;
+   padding-bottom:0vw;
  margin:0vw;
  color: #00ff00;
   -webkit-text-fill-color: #00ff00; 
