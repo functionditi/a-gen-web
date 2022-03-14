@@ -55,6 +55,7 @@ alt{
   text-decoration: none;
  }
 
+ 
  .btn {
   font-family: 'Formula Condensed';
   font-weight: 100;
@@ -66,6 +67,11 @@ alt{
   cursor: pointer;
     border-radius: 40px;
   }
+
+  .btn:hover{
+    color: black;
+    border: 2px solid #000;
+     }
 
   .fixedonscreen{
   position:fixed; 
